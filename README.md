@@ -1,1 +1,1 @@
-# javascripting
+# NodeSchool "javascripting" Lesson
